@@ -1,9 +1,10 @@
-# Nigeria SE4ALL Main Website including the Webmap
-
+## Nigeria SE4ALL Main Website including the Webmap
 Nigeria SE4ALL offers the most accurate data and latest tools that empower better electrification planning in Nigeria.
+
 This repo represents the Frontend of the Nigeria SE4ALL website, which seperately hosts a webmap on three different levels (national, state, village) on rural electrification. The website is developed by INTEGRATION environment & energy, Reiner Lemoine Institut gGmbH and Alsino Skowronnek and financed by Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) and the Federal Ministry of Power, Works and Housing under the Nigerian Energy Support Programme (Co-funded by the German Government and the European Union).
+
 The current repo is built on top of Strapi as a headless CMS, which is used to manage the content of the website and the webmap. The frontend is built with Angular and TypeScript, and the styling is done with SCSS and Bootstrap.
----
+
 
 ## Public Instances
 - [Nigeria SE4ALL Website](https://nigeriase4all.gov.ng/)
